@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @khushivs
+- 👋 Hi, I’m @khushivs :)
 - 👀 I’m interested in addressing our world's most pressing issues using data science and computing tools.
-- 🌱 I’m currently learning programming languages as I do not have much experience yet :) 
+- 🌱 I am passionate about ecology and the environment.
+- 📚 I’m currently learning the fundamentals of programming and data science.
 - 💞️ I’m looking to gain more experience applying the tools I am learning to real-world projects and experiential learning.
 
 <!---
